@@ -4,11 +4,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-- 🔭 Learning Data Structure and Algorithm and solving problems on Leetcode.
-
-- 🌱 Learning Web Development and making projects.
-
-- 🎯 2023 Goals: Contribute more to Open Source.
+- 🔭 Striving for progress over perfection
 
 ## 🛠 Tech Stack:
 
